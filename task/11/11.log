@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.1.17)  25 JAN 2020 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.1.17)  25 JAN 2020 18:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -775,10 +775,10 @@ LaTeX Font Info:    Try loading font information for U+wasy on input line 47.
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 61.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 62.
 
 
-LaTeX Warning: Command \CYRN invalid in math mode on input line 61.
+LaTeX Warning: Command \CYRN invalid in math mode on input line 62.
 
 Missing character: There is no м in font cmr12!
 Missing character: There is no Н in font cmr12!
@@ -790,12 +790,12 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 ...РѕС‚СЂРёС†Р°С‚РµР»СЊРЅС‹Р№ Р·Р°СЂСЏРґ $в€’
+l.64 ...РѕС‚СЂРёС†Р°С‚РµР»СЊРЅС‹Р№ Р·Р°СЂСЏРґ $в€’
                                                   q$. РќР°Р№С‚Рё РёР·РјРµРЅР...
 
 ? 
 
-Overfull \hbox (3.2891pt too wide) in paragraph at lines 82--83
+Overfull \hbox (3.2891pt too wide) in paragraph at lines 83--84
 []\T2A/cmr/m/n/12 С ка-кой си-лой дей-ству-ет од-но-род-ное по-ле, на-пря-жен-н
 ость ко-то-ро-го 2 кВ/м,
  []
@@ -803,11 +803,11 @@ Overfull \hbox (3.2891pt too wide) in paragraph at lines 82--83
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
  (./11.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
 Package rerunfilecheck Info: File `11.out' has not changed.
 (rerunfilecheck)             Checksum: 43244CB227E28D0215E774837F4B42BD;214.
  ) 
@@ -818,10 +818,10 @@ Here is how much of TeX's memory you used:
  18297 multiletter control sequences out of 15000+600000
  17076 words of font info for 55 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 42i,6n,46p,789b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/mik/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600pk> 
-</home/mik/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </h
-ome/mik/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </home
+ 42i,6n,46p,789b,441s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/mik/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> 
+</home/mik/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </h
+ome/mik/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600pk> </home
 /mik/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk> </home/mi
 k/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm2074.600pk></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive
@@ -829,9 +829,9 @@ exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive
 dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb>
-Output written on 11.pdf (2 pages, 79680 bytes).
+Output written on 11.pdf (2 pages, 88728 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
+ 217 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
  18 named destinations out of 1000 (max. 500000)
  17 words of extra memory for PDF output out of 10000 (max. 10000000)
