@@ -1,5 +1,5 @@
 # Домашний репозиторий для занятий по физике
-
+Repository contains homework for phisics classes for mytutiring students. 10-11 Year of education.
 ## Содержание:
 
 ### /lib
